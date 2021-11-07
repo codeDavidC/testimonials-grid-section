@@ -120,6 +120,7 @@ main {
 }
 
 .attribution {
+    margin-bottom: 10px;
     font-size: 11px;
     text-align: center;
 }
@@ -143,6 +144,7 @@ main {
 
 @media screen and (min-width: 1024px) {
     main {
+        margin-top: 145px;
         max-width: 996px;
         grid-template-columns: repeat(4, 1fr);
         grid-template-rows: repeat(2, 1fr);
